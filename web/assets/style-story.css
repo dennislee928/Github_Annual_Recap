@@ -63,6 +63,7 @@ body{
 }
 
 .story-card > *{ position:relative; z-index:1; }
+.story-card > .story-octocat{ z-index: 0; }
 
 .story-header{
   display: flex;
@@ -286,6 +287,7 @@ body{
   width: 48px;
   height: 48px;
   flex-shrink: 0;
+  filter: brightness(0) invert(1);
 }
 
 .story-lang-name{
@@ -427,6 +429,53 @@ body{
   color: var(--accent2);
 }
 
+.story-octocat{
+  position: absolute;
+  bottom: 60px;
+  right: 60px;
+  width: 280px;
+  height: 280px;
+  opacity: 0.4;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.octocat-image{
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,.3));
+}
+
+#card-02 .story-octocat{
+  bottom: 80px;
+  right: 80px;
+  width: 320px;
+  height: 320px;
+}
+
+#card-04 .story-octocat{
+  bottom: 100px;
+  right: 80px;
+  width: 300px;
+  height: 300px;
+}
+
+#card-08 .story-octocat{
+  bottom: 120px;
+  right: 100px;
+  width: 340px;
+  height: 340px;
+}
+
+#card-10 .story-octocat{
+  bottom: 100px;
+  right: 100px;
+  width: 360px;
+  height: 360px;
+  opacity: 0.35;
+}
+
 .small{
   color: var(--muted);
   font-size: 18px;
@@ -434,7 +483,7 @@ body{
   text-align: center;
 }
 
-/* Hide all cards except first by default */
+/* Hide all cards except first by default - render script will show them one by one */
 .story-card:not(:first-child){
   display: none;
 }

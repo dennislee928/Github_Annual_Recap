@@ -10,7 +10,10 @@
   <div class="container">
     <div class="header">
       <div class="brand">
-        <h1>GitHub Recap <span id="year">2025</span></h1>
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <img src="./assets/icons/github-logo.svg" alt="GitHub" style="width: 32px; height: 32px; fill: currentColor;"/>
+          <h1>GitHub Recap <span id="year">2025</span></h1>
+        </div>
         <div class="sub">@<span id="user">dennislee928</span> — generated <span id="gen"></span></div>
       </div>
       <div class="badge">Wrapped-style cards + full report</div>
@@ -24,10 +27,22 @@
       <section class="card card-square">
         <h2>01 / You shipped</h2>
         <div class="kpis">
-          <div class="kpi"><div class="label">Commits</div><div class="value" id="t_commits">—</div></div>
-          <div class="kpi"><div class="label">Pull requests</div><div class="value" id="t_prs">—</div></div>
-          <div class="kpi"><div class="label">Issues</div><div class="value" id="t_issues">—</div></div>
-          <div class="kpi"><div class="label">Reviews</div><div class="value" id="t_reviews">—</div></div>
+          <div class="kpi">
+            <img src="./assets/icons/commit.svg" alt="Commits" class="icon-inline"/>
+            <div class="label">Commits</div><div class="value" id="t_commits">—</div>
+          </div>
+          <div class="kpi">
+            <img src="./assets/icons/pull-request.svg" alt="PRs" class="icon-inline"/>
+            <div class="label">Pull requests</div><div class="value" id="t_prs">—</div>
+          </div>
+          <div class="kpi">
+            <img src="./assets/icons/issue.svg" alt="Issues" class="icon-inline"/>
+            <div class="label">Issues</div><div class="value" id="t_issues">—</div>
+          </div>
+          <div class="kpi">
+            <img src="./assets/icons/review.svg" alt="Reviews" class="icon-inline"/>
+            <div class="label">Reviews</div><div class="value" id="t_reviews">—</div>
+          </div>
         </div>
         <div class="kpi" style="margin-top:10px;">
           <div class="label">Total contributions</div>
@@ -102,6 +117,7 @@
         <h2>06 / Languages</h2>
         <div class="small">Weighted by language bytes across repos you contributed to (current repo language breakdown).</div>
         <div class="list" id="langs" style="margin-top:10px;"></div>
+        <div class="badges-container" id="badges-langs" style="margin-top:10px;"></div>
         <div class="small" style="margin-top:10px;">
           If a repo is inaccessible via token scopes, its languages may be missing.
         </div>

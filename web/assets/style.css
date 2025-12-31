@@ -104,6 +104,17 @@ body{
 }
 .kpi .label{ color: var(--muted); font-size: 12px; }
 .kpi .value{ font-size: 22px; margin-top: 4px; font-weight: 650; }
+.icon-inline{
+  width: 20px;
+  height: 20px;
+  fill: var(--accent2);
+  margin-bottom: 4px;
+}
+.badges-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
 
 .twoCol{
   display:grid;

@@ -4,6 +4,8 @@
   "type": "module",
   "scripts": {
     "render": "node ./render-cards.mjs",
+    "render:story": "node ./render-story.mjs",
+    "render:all": "npm run render && npm run render:story",
     "serve": "node ./serve.mjs"
   },
   "dependencies": {
