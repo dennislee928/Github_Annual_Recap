@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "user": "dennislee928",
+    "year": 2025,
+    "generated_at": "2025-12-31T00:00:00Z"
+  },
+  "totals": {
+    "commits": 0,
+    "pull_requests": 0,
+    "issues": 0,
+    "reviews": 0,
+    "overall": 0
+  },
+  "calendar": {
+    "days": [],
+    "longest_streak": 0,
+    "most_productive_day": {
+      "date": "2025-01-01",
+      "count": 0
+    },
+    "most_productive_iso_week": {
+      "iso_week": "2025-W01",
+      "count": 0
+    }
+  },
+  "top_repos": [],
+  "pr_stats": {
+    "opened": 0,
+    "merged": 0,
+    "merge_rate": 0,
+    "avg_time_to_merge_hours": 0,
+    "biggest_pr": null,
+    "time_of_day_histogram": {
+      "00": 0,
+      "01": 0,
+      "02": 0,
+      "03": 0,
+      "04": 0,
+      "05": 0,
+      "06": 0,
+      "07": 0,
+      "08": 0,
+      "09": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0
+    }
+  },
+  "issue_stats": {
+    "opened": 0,
+    "closed": 0,
+    "time_of_day_histogram": {
+      "00": 0,
+      "01": 0,
+      "02": 0,
+      "03": 0,
+      "04": 0,
+      "05": 0,
+      "06": 0,
+      "07": 0,
+      "08": 0,
+      "09": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0
+    }
+  },
+  "reviews": {
+    "total": 0,
+    "by_repo": []
+  },
+  "languages": {
+    "weighted_bytes": {},
+    "top": [],
+    "note": "Run the Go collector to populate."
+  },
+  "growth": null
+}

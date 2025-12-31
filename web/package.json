@@ -1,0 +1,12 @@
+{
+  "name": "github-recap-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node ./render-cards.mjs",
+    "serve": "node ./serve.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
