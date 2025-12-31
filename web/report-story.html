@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>GitHub Recap 2025 Story — dennislee928</title>
+  <link rel="stylesheet" href="./assets/style-story.css"/>
+</head>
+<body>
+  <div class="story-container">
+    <div id="err" class="small" style="padding: 20px;"></div>
+
+    <!-- Card 01: You shipped -->
+    <section class="story-card" id="card-01">
+      <div class="story-header">
+        <div class="story-icon">
+          <img src="./assets/icons/github-logo.svg" alt="GitHub" class="icon-github"/>
+        </div>
+        <h2>01 / You shipped</h2>
+      </div>
+      <div class="story-kpis">
+        <div class="story-kpi">
+          <img src="./assets/icons/commit.svg" alt="Commits" class="icon-small"/>
+          <div class="label">Commits</div>
+          <div class="value" id="t_commits">—</div>
+        </div>
+        <div class="story-kpi">
+          <img src="./assets/icons/pull-request.svg" alt="PRs" class="icon-small"/>
+          <div class="label">Pull requests</div>
+          <div class="value" id="t_prs">—</div>
+        </div>
+        <div class="story-kpi">
+          <img src="./assets/icons/issue.svg" alt="Issues" class="icon-small"/>
+          <div class="label">Issues</div>
+          <div class="value" id="t_issues">—</div>
+        </div>
+        <div class="story-kpi">
+          <img src="./assets/icons/review.svg" alt="Reviews" class="icon-small"/>
+          <div class="label">Reviews</div>
+          <div class="value" id="t_reviews">—</div>
+        </div>
+      </div>
+      <div class="story-total">
+        <div class="label">Total contributions</div>
+        <div class="value" id="t_overall">—</div>
+      </div>
+      <div class="story-badges" id="badges-01"></div>
+    </section>
+
+    <!-- Card 02: Calendar heatmap -->
+    <section class="story-card" id="card-02">
+      <div class="story-header">
+        <h2>02 / Calendar heatmap</h2>
+      </div>
+      <div class="story-heatmap-container">
+        <div id="heatmap" class="heatmap-story"></div>
+      </div>
+      <div class="story-stats">
+        <div class="stat-item">
+          <div class="stat-label">Longest streak</div>
+          <div class="stat-value"><span id="streak">—</span> days</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Most productive day</div>
+          <div class="stat-value" id="best_day">—</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-label">Most productive week</div>
+          <div class="stat-value" id="best_week">—</div>
+        </div>
+      </div>
+      <div class="story-badges" id="badges-02"></div>
+    </section>
+
+    <!-- Card 03: Top repos -->
+    <section class="story-card" id="card-03">
+      <div class="story-header">
+        <h2>03 / Top repos by activity</h2>
+      </div>
+      <div class="story-list" id="top_repos"></div>
+      <div class="story-badges" id="badges-03"></div>
+    </section>
+
+    <!-- Card 04: PR stats -->
+    <section class="story-card" id="card-04">
+      <div class="story-header">
+        <h2>04 / Pull request stats</h2>
+      </div>
+      <div class="story-kpis">
+        <div class="story-kpi">
+          <div class="label">Opened</div>
+          <div class="value" id="pr_opened">—</div>
+        </div>
+        <div class="story-kpi">
+          <div class="label">Merged</div>
+          <div class="value" id="pr_merged">—</div>
+        </div>
+        <div class="story-kpi">
+          <div class="label">Merge rate</div>
+          <div class="value" id="pr_merge_rate">—</div>
+        </div>
+        <div class="story-kpi">
+          <div class="label">Avg time</div>
+          <div class="value" id="pr_avg_merge">—</div>
+        </div>
+      </div>
+      <div class="story-big-pr">
+        <div class="label">Biggest PR</div>
+        <div class="value" id="big_pr">—</div>
+      </div>
+      <div class="story-badges" id="badges-04"></div>
+    </section>
+
+    <!-- Card 05: Issues + reviews -->
+    <section class="story-card" id="card-05">
+      <div class="story-header">
+        <h2>05 / Issues + reviews</h2>
+      </div>
+      <div class="story-kpis">
+        <div class="story-kpi">
+          <div class="label">Issues opened</div>
+          <div class="value" id="iss_opened">—</div>
+        </div>
+        <div class="story-kpi">
+          <div class="label">Issues closed</div>
+          <div class="value" id="iss_closed">—</div>
+        </div>
+        <div class="story-kpi">
+          <div class="label">Reviews</div>
+          <div class="value" id="t_reviews2">—</div>
+        </div>
+      </div>
+      <div class="story-list" id="review_repos"></div>
+      <div class="story-badges" id="badges-05"></div>
+    </section>
+
+    <!-- Card 06: Languages -->
+    <section class="story-card" id="card-06">
+      <div class="story-header">
+        <h2>06 / Languages</h2>
+      </div>
+      <div class="story-langs" id="langs"></div>
+      <div class="story-badges" id="badges-06"></div>
+    </section>
+
+    <!-- Card 07: Stars + forks -->
+    <section class="story-card" id="card-07">
+      <div class="story-header">
+        <h2>07 / Stars + forks gained</h2>
+      </div>
+      <div class="story-kpis">
+        <div class="story-kpi">
+          <div class="label">Stars gained</div>
+          <div class="value" id="stars_gained">—</div>
+        </div>
+        <div class="story-kpi">
+          <div class="label">Forks gained</div>
+          <div class="value" id="forks_gained">—</div>
+        </div>
+        <div class="story-kpi">
+          <div class="label">Stars now</div>
+          <div class="value" id="stars_now">—</div>
+        </div>
+        <div class="story-kpi">
+          <div class="label">Forks now</div>
+          <div class="value" id="forks_now">—</div>
+        </div>
+      </div>
+      <div class="story-list" id="growth_repos"></div>
+      <div class="story-badges" id="badges-07"></div>
+    </section>
+
+    <!-- Card 08: Additional stats - Repos contributed -->
+    <section class="story-card" id="card-08">
+      <div class="story-header">
+        <h2>08 / Repositories</h2>
+      </div>
+      <div class="story-stat-large">
+        <div class="value" id="total_repos">—</div>
+        <div class="label">Repositories contributed to</div>
+      </div>
+      <div class="story-stat-large">
+        <div class="value" id="avg_per_day">—</div>
+        <div class="label">Average contributions per day</div>
+      </div>
+      <div class="story-badges" id="badges-08"></div>
+    </section>
+
+    <!-- Card 09: Additional stats - Most active month -->
+    <section class="story-card" id="card-09">
+      <div class="story-header">
+        <h2>09 / Activity timeline</h2>
+      </div>
+      <div class="story-stat-large">
+        <div class="value" id="most_active_month">—</div>
+        <div class="label">Most active month</div>
+      </div>
+      <div class="story-distribution" id="contribution_dist"></div>
+      <div class="story-badges" id="badges-09"></div>
+    </section>
+
+    <!-- Card 10: Achievements -->
+    <section class="story-card" id="card-10">
+      <div class="story-header">
+        <h2>10 / Achievements</h2>
+      </div>
+      <div class="story-achievements" id="achievements"></div>
+    </section>
+
+  </div>
+
+  <script type="module" src="./assets/app-story.js"></script>
+</body>
+</html>

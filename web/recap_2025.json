@@ -2,81 +2,1661 @@
   "meta": {
     "user": "dennislee928",
     "year": 2025,
-    "generated_at": "2025-12-31T00:00:00Z"
+    "generated_at": "2025-12-31T02:48:36.1994078Z"
   },
   "totals": {
-    "commits": 0,
-    "pull_requests": 0,
-    "issues": 0,
-    "reviews": 0,
-    "overall": 0
+    "commits": 7716,
+    "pull_requests": 1857,
+    "issues": 78,
+    "reviews": 102,
+    "overall": 9753
   },
   "calendar": {
-    "days": [],
-    "longest_streak": 0,
+    "days": [
+      {
+        "date": "2025-01-01",
+        "count": 0
+      },
+      {
+        "date": "2025-01-02",
+        "count": 1
+      },
+      {
+        "date": "2025-01-03",
+        "count": 0
+      },
+      {
+        "date": "2025-01-04",
+        "count": 0
+      },
+      {
+        "date": "2025-01-05",
+        "count": 25
+      },
+      {
+        "date": "2025-01-06",
+        "count": 31
+      },
+      {
+        "date": "2025-01-07",
+        "count": 37
+      },
+      {
+        "date": "2025-01-08",
+        "count": 12
+      },
+      {
+        "date": "2025-01-09",
+        "count": 5
+      },
+      {
+        "date": "2025-01-10",
+        "count": 41
+      },
+      {
+        "date": "2025-01-11",
+        "count": 4
+      },
+      {
+        "date": "2025-01-12",
+        "count": 5
+      },
+      {
+        "date": "2025-01-13",
+        "count": 2
+      },
+      {
+        "date": "2025-01-14",
+        "count": 24
+      },
+      {
+        "date": "2025-01-15",
+        "count": 34
+      },
+      {
+        "date": "2025-01-16",
+        "count": 38
+      },
+      {
+        "date": "2025-01-17",
+        "count": 8
+      },
+      {
+        "date": "2025-01-18",
+        "count": 8
+      },
+      {
+        "date": "2025-01-19",
+        "count": 1
+      },
+      {
+        "date": "2025-01-20",
+        "count": 1
+      },
+      {
+        "date": "2025-01-21",
+        "count": 3
+      },
+      {
+        "date": "2025-01-22",
+        "count": 1
+      },
+      {
+        "date": "2025-01-23",
+        "count": 1
+      },
+      {
+        "date": "2025-01-24",
+        "count": 25
+      },
+      {
+        "date": "2025-01-25",
+        "count": 5
+      },
+      {
+        "date": "2025-01-26",
+        "count": 4
+      },
+      {
+        "date": "2025-01-27",
+        "count": 1
+      },
+      {
+        "date": "2025-01-28",
+        "count": 0
+      },
+      {
+        "date": "2025-01-29",
+        "count": 0
+      },
+      {
+        "date": "2025-01-30",
+        "count": 0
+      },
+      {
+        "date": "2025-01-31",
+        "count": 0
+      },
+      {
+        "date": "2025-02-01",
+        "count": 0
+      },
+      {
+        "date": "2025-02-02",
+        "count": 0
+      },
+      {
+        "date": "2025-02-03",
+        "count": 1
+      },
+      {
+        "date": "2025-02-04",
+        "count": 14
+      },
+      {
+        "date": "2025-02-05",
+        "count": 18
+      },
+      {
+        "date": "2025-02-06",
+        "count": 1
+      },
+      {
+        "date": "2025-02-07",
+        "count": 26
+      },
+      {
+        "date": "2025-02-08",
+        "count": 0
+      },
+      {
+        "date": "2025-02-09",
+        "count": 2
+      },
+      {
+        "date": "2025-02-10",
+        "count": 2
+      },
+      {
+        "date": "2025-02-11",
+        "count": 1
+      },
+      {
+        "date": "2025-02-12",
+        "count": 0
+      },
+      {
+        "date": "2025-02-13",
+        "count": 2
+      },
+      {
+        "date": "2025-02-14",
+        "count": 0
+      },
+      {
+        "date": "2025-02-15",
+        "count": 0
+      },
+      {
+        "date": "2025-02-16",
+        "count": 0
+      },
+      {
+        "date": "2025-02-17",
+        "count": 0
+      },
+      {
+        "date": "2025-02-18",
+        "count": 5
+      },
+      {
+        "date": "2025-02-19",
+        "count": 0
+      },
+      {
+        "date": "2025-02-20",
+        "count": 4
+      },
+      {
+        "date": "2025-02-21",
+        "count": 30
+      },
+      {
+        "date": "2025-02-22",
+        "count": 22
+      },
+      {
+        "date": "2025-02-23",
+        "count": 0
+      },
+      {
+        "date": "2025-02-24",
+        "count": 11
+      },
+      {
+        "date": "2025-02-25",
+        "count": 31
+      },
+      {
+        "date": "2025-02-26",
+        "count": 3
+      },
+      {
+        "date": "2025-02-27",
+        "count": 4
+      },
+      {
+        "date": "2025-02-28",
+        "count": 7
+      },
+      {
+        "date": "2025-03-01",
+        "count": 0
+      },
+      {
+        "date": "2025-03-02",
+        "count": 32
+      },
+      {
+        "date": "2025-03-03",
+        "count": 22
+      },
+      {
+        "date": "2025-03-04",
+        "count": 13
+      },
+      {
+        "date": "2025-03-05",
+        "count": 12
+      },
+      {
+        "date": "2025-03-06",
+        "count": 12
+      },
+      {
+        "date": "2025-03-07",
+        "count": 18
+      },
+      {
+        "date": "2025-03-08",
+        "count": 10
+      },
+      {
+        "date": "2025-03-09",
+        "count": 21
+      },
+      {
+        "date": "2025-03-10",
+        "count": 16
+      },
+      {
+        "date": "2025-03-11",
+        "count": 33
+      },
+      {
+        "date": "2025-03-12",
+        "count": 30
+      },
+      {
+        "date": "2025-03-13",
+        "count": 40
+      },
+      {
+        "date": "2025-03-14",
+        "count": 23
+      },
+      {
+        "date": "2025-03-15",
+        "count": 11
+      },
+      {
+        "date": "2025-03-16",
+        "count": 9
+      },
+      {
+        "date": "2025-03-17",
+        "count": 36
+      },
+      {
+        "date": "2025-03-18",
+        "count": 13
+      },
+      {
+        "date": "2025-03-19",
+        "count": 15
+      },
+      {
+        "date": "2025-03-20",
+        "count": 5
+      },
+      {
+        "date": "2025-03-21",
+        "count": 3
+      },
+      {
+        "date": "2025-03-22",
+        "count": 8
+      },
+      {
+        "date": "2025-03-23",
+        "count": 0
+      },
+      {
+        "date": "2025-03-24",
+        "count": 35
+      },
+      {
+        "date": "2025-03-25",
+        "count": 6
+      },
+      {
+        "date": "2025-03-26",
+        "count": 20
+      },
+      {
+        "date": "2025-03-27",
+        "count": 24
+      },
+      {
+        "date": "2025-03-28",
+        "count": 46
+      },
+      {
+        "date": "2025-03-29",
+        "count": 2
+      },
+      {
+        "date": "2025-03-30",
+        "count": 0
+      },
+      {
+        "date": "2025-03-31",
+        "count": 11
+      },
+      {
+        "date": "2025-04-01",
+        "count": 3
+      },
+      {
+        "date": "2025-04-02",
+        "count": 16
+      },
+      {
+        "date": "2025-04-03",
+        "count": 12
+      },
+      {
+        "date": "2025-04-04",
+        "count": 11
+      },
+      {
+        "date": "2025-04-05",
+        "count": 0
+      },
+      {
+        "date": "2025-04-06",
+        "count": 17
+      },
+      {
+        "date": "2025-04-07",
+        "count": 11
+      },
+      {
+        "date": "2025-04-08",
+        "count": 22
+      },
+      {
+        "date": "2025-04-09",
+        "count": 53
+      },
+      {
+        "date": "2025-04-10",
+        "count": 0
+      },
+      {
+        "date": "2025-04-11",
+        "count": 11
+      },
+      {
+        "date": "2025-04-12",
+        "count": 46
+      },
+      {
+        "date": "2025-04-13",
+        "count": 31
+      },
+      {
+        "date": "2025-04-14",
+        "count": 40
+      },
+      {
+        "date": "2025-04-15",
+        "count": 0
+      },
+      {
+        "date": "2025-04-16",
+        "count": 3
+      },
+      {
+        "date": "2025-04-17",
+        "count": 28
+      },
+      {
+        "date": "2025-04-18",
+        "count": 12
+      },
+      {
+        "date": "2025-04-19",
+        "count": 17
+      },
+      {
+        "date": "2025-04-20",
+        "count": 104
+      },
+      {
+        "date": "2025-04-21",
+        "count": 9
+      },
+      {
+        "date": "2025-04-22",
+        "count": 5
+      },
+      {
+        "date": "2025-04-23",
+        "count": 6
+      },
+      {
+        "date": "2025-04-24",
+        "count": 7
+      },
+      {
+        "date": "2025-04-25",
+        "count": 5
+      },
+      {
+        "date": "2025-04-26",
+        "count": 6
+      },
+      {
+        "date": "2025-04-27",
+        "count": 8
+      },
+      {
+        "date": "2025-04-28",
+        "count": 13
+      },
+      {
+        "date": "2025-04-29",
+        "count": 5
+      },
+      {
+        "date": "2025-04-30",
+        "count": 59
+      },
+      {
+        "date": "2025-05-01",
+        "count": 6
+      },
+      {
+        "date": "2025-05-02",
+        "count": 10
+      },
+      {
+        "date": "2025-05-03",
+        "count": 5
+      },
+      {
+        "date": "2025-05-04",
+        "count": 5
+      },
+      {
+        "date": "2025-05-05",
+        "count": 5
+      },
+      {
+        "date": "2025-05-06",
+        "count": 5
+      },
+      {
+        "date": "2025-05-07",
+        "count": 5
+      },
+      {
+        "date": "2025-05-08",
+        "count": 6
+      },
+      {
+        "date": "2025-05-09",
+        "count": 5
+      },
+      {
+        "date": "2025-05-10",
+        "count": 5
+      },
+      {
+        "date": "2025-05-11",
+        "count": 6
+      },
+      {
+        "date": "2025-05-12",
+        "count": 6
+      },
+      {
+        "date": "2025-05-13",
+        "count": 5
+      },
+      {
+        "date": "2025-05-14",
+        "count": 5
+      },
+      {
+        "date": "2025-05-15",
+        "count": 5
+      },
+      {
+        "date": "2025-05-16",
+        "count": 5
+      },
+      {
+        "date": "2025-05-17",
+        "count": 7
+      },
+      {
+        "date": "2025-05-18",
+        "count": 14
+      },
+      {
+        "date": "2025-05-19",
+        "count": 6
+      },
+      {
+        "date": "2025-05-20",
+        "count": 5
+      },
+      {
+        "date": "2025-05-21",
+        "count": 5
+      },
+      {
+        "date": "2025-05-22",
+        "count": 7
+      },
+      {
+        "date": "2025-05-23",
+        "count": 9
+      },
+      {
+        "date": "2025-05-24",
+        "count": 5
+      },
+      {
+        "date": "2025-05-25",
+        "count": 5
+      },
+      {
+        "date": "2025-05-26",
+        "count": 6
+      },
+      {
+        "date": "2025-05-27",
+        "count": 5
+      },
+      {
+        "date": "2025-05-28",
+        "count": 13
+      },
+      {
+        "date": "2025-05-29",
+        "count": 13
+      },
+      {
+        "date": "2025-05-30",
+        "count": 24
+      },
+      {
+        "date": "2025-05-31",
+        "count": 22
+      },
+      {
+        "date": "2025-06-01",
+        "count": 25
+      },
+      {
+        "date": "2025-06-02",
+        "count": 11
+      },
+      {
+        "date": "2025-06-03",
+        "count": 11
+      },
+      {
+        "date": "2025-06-04",
+        "count": 37
+      },
+      {
+        "date": "2025-06-05",
+        "count": 22
+      },
+      {
+        "date": "2025-06-06",
+        "count": 5
+      },
+      {
+        "date": "2025-06-07",
+        "count": 26
+      },
+      {
+        "date": "2025-06-08",
+        "count": 8
+      },
+      {
+        "date": "2025-06-09",
+        "count": 21
+      },
+      {
+        "date": "2025-06-10",
+        "count": 5
+      },
+      {
+        "date": "2025-06-11",
+        "count": 5
+      },
+      {
+        "date": "2025-06-12",
+        "count": 5
+      },
+      {
+        "date": "2025-06-13",
+        "count": 5
+      },
+      {
+        "date": "2025-06-14",
+        "count": 11
+      },
+      {
+        "date": "2025-06-15",
+        "count": 10
+      },
+      {
+        "date": "2025-06-16",
+        "count": 6
+      },
+      {
+        "date": "2025-06-17",
+        "count": 5
+      },
+      {
+        "date": "2025-06-18",
+        "count": 5
+      },
+      {
+        "date": "2025-06-19",
+        "count": 6
+      },
+      {
+        "date": "2025-06-20",
+        "count": 5
+      },
+      {
+        "date": "2025-06-21",
+        "count": 5
+      },
+      {
+        "date": "2025-06-22",
+        "count": 5
+      },
+      {
+        "date": "2025-06-23",
+        "count": 5
+      },
+      {
+        "date": "2025-06-24",
+        "count": 5
+      },
+      {
+        "date": "2025-06-25",
+        "count": 5
+      },
+      {
+        "date": "2025-06-26",
+        "count": 5
+      },
+      {
+        "date": "2025-06-27",
+        "count": 5
+      },
+      {
+        "date": "2025-06-28",
+        "count": 5
+      },
+      {
+        "date": "2025-06-29",
+        "count": 6
+      },
+      {
+        "date": "2025-06-30",
+        "count": 5
+      },
+      {
+        "date": "2025-07-01",
+        "count": 8
+      },
+      {
+        "date": "2025-07-02",
+        "count": 5
+      },
+      {
+        "date": "2025-07-03",
+        "count": 9
+      },
+      {
+        "date": "2025-07-04",
+        "count": 7
+      },
+      {
+        "date": "2025-07-05",
+        "count": 39
+      },
+      {
+        "date": "2025-07-06",
+        "count": 22
+      },
+      {
+        "date": "2025-07-07",
+        "count": 18
+      },
+      {
+        "date": "2025-07-08",
+        "count": 76
+      },
+      {
+        "date": "2025-07-09",
+        "count": 32
+      },
+      {
+        "date": "2025-07-10",
+        "count": 30
+      },
+      {
+        "date": "2025-07-11",
+        "count": 28
+      },
+      {
+        "date": "2025-07-12",
+        "count": 7
+      },
+      {
+        "date": "2025-07-13",
+        "count": 6
+      },
+      {
+        "date": "2025-07-14",
+        "count": 6
+      },
+      {
+        "date": "2025-07-15",
+        "count": 161
+      },
+      {
+        "date": "2025-07-16",
+        "count": 19
+      },
+      {
+        "date": "2025-07-17",
+        "count": 18
+      },
+      {
+        "date": "2025-07-18",
+        "count": 16
+      },
+      {
+        "date": "2025-07-19",
+        "count": 17
+      },
+      {
+        "date": "2025-07-20",
+        "count": 34
+      },
+      {
+        "date": "2025-07-21",
+        "count": 23
+      },
+      {
+        "date": "2025-07-22",
+        "count": 13
+      },
+      {
+        "date": "2025-07-23",
+        "count": 21
+      },
+      {
+        "date": "2025-07-24",
+        "count": 6
+      },
+      {
+        "date": "2025-07-25",
+        "count": 6
+      },
+      {
+        "date": "2025-07-26",
+        "count": 8
+      },
+      {
+        "date": "2025-07-27",
+        "count": 5
+      },
+      {
+        "date": "2025-07-28",
+        "count": 40
+      },
+      {
+        "date": "2025-07-29",
+        "count": 8
+      },
+      {
+        "date": "2025-07-30",
+        "count": 17
+      },
+      {
+        "date": "2025-07-31",
+        "count": 38
+      },
+      {
+        "date": "2025-08-01",
+        "count": 55
+      },
+      {
+        "date": "2025-08-02",
+        "count": 108
+      },
+      {
+        "date": "2025-08-03",
+        "count": 106
+      },
+      {
+        "date": "2025-08-04",
+        "count": 16
+      },
+      {
+        "date": "2025-08-05",
+        "count": 24
+      },
+      {
+        "date": "2025-08-06",
+        "count": 63
+      },
+      {
+        "date": "2025-08-07",
+        "count": 195
+      },
+      {
+        "date": "2025-08-08",
+        "count": 39
+      },
+      {
+        "date": "2025-08-09",
+        "count": 33
+      },
+      {
+        "date": "2025-08-10",
+        "count": 36
+      },
+      {
+        "date": "2025-08-11",
+        "count": 12
+      },
+      {
+        "date": "2025-08-12",
+        "count": 19
+      },
+      {
+        "date": "2025-08-13",
+        "count": 38
+      },
+      {
+        "date": "2025-08-14",
+        "count": 24
+      },
+      {
+        "date": "2025-08-15",
+        "count": 12
+      },
+      {
+        "date": "2025-08-16",
+        "count": 13
+      },
+      {
+        "date": "2025-08-17",
+        "count": 13
+      },
+      {
+        "date": "2025-08-18",
+        "count": 64
+      },
+      {
+        "date": "2025-08-19",
+        "count": 67
+      },
+      {
+        "date": "2025-08-20",
+        "count": 79
+      },
+      {
+        "date": "2025-08-21",
+        "count": 76
+      },
+      {
+        "date": "2025-08-22",
+        "count": 16
+      },
+      {
+        "date": "2025-08-23",
+        "count": 73
+      },
+      {
+        "date": "2025-08-24",
+        "count": 92
+      },
+      {
+        "date": "2025-08-25",
+        "count": 26
+      },
+      {
+        "date": "2025-08-26",
+        "count": 103
+      },
+      {
+        "date": "2025-08-27",
+        "count": 100
+      },
+      {
+        "date": "2025-08-28",
+        "count": 79
+      },
+      {
+        "date": "2025-08-29",
+        "count": 51
+      },
+      {
+        "date": "2025-08-30",
+        "count": 153
+      },
+      {
+        "date": "2025-08-31",
+        "count": 38
+      },
+      {
+        "date": "2025-09-01",
+        "count": 47
+      },
+      {
+        "date": "2025-09-02",
+        "count": 22
+      },
+      {
+        "date": "2025-09-03",
+        "count": 50
+      },
+      {
+        "date": "2025-09-04",
+        "count": 17
+      },
+      {
+        "date": "2025-09-05",
+        "count": 30
+      },
+      {
+        "date": "2025-09-06",
+        "count": 23
+      },
+      {
+        "date": "2025-09-07",
+        "count": 62
+      },
+      {
+        "date": "2025-09-08",
+        "count": 24
+      },
+      {
+        "date": "2025-09-09",
+        "count": 47
+      },
+      {
+        "date": "2025-09-10",
+        "count": 32
+      },
+      {
+        "date": "2025-09-11",
+        "count": 83
+      },
+      {
+        "date": "2025-09-12",
+        "count": 11
+      },
+      {
+        "date": "2025-09-13",
+        "count": 56
+      },
+      {
+        "date": "2025-09-14",
+        "count": 8
+      },
+      {
+        "date": "2025-09-15",
+        "count": 2
+      },
+      {
+        "date": "2025-09-16",
+        "count": 5
+      },
+      {
+        "date": "2025-09-17",
+        "count": 10
+      },
+      {
+        "date": "2025-09-18",
+        "count": 64
+      },
+      {
+        "date": "2025-09-19",
+        "count": 32
+      },
+      {
+        "date": "2025-09-20",
+        "count": 61
+      },
+      {
+        "date": "2025-09-21",
+        "count": 16
+      },
+      {
+        "date": "2025-09-22",
+        "count": 5
+      },
+      {
+        "date": "2025-09-23",
+        "count": 47
+      },
+      {
+        "date": "2025-09-24",
+        "count": 136
+      },
+      {
+        "date": "2025-09-25",
+        "count": 162
+      },
+      {
+        "date": "2025-09-26",
+        "count": 92
+      },
+      {
+        "date": "2025-09-27",
+        "count": 11
+      },
+      {
+        "date": "2025-09-28",
+        "count": 98
+      },
+      {
+        "date": "2025-09-29",
+        "count": 42
+      },
+      {
+        "date": "2025-09-30",
+        "count": 84
+      },
+      {
+        "date": "2025-10-01",
+        "count": 91
+      },
+      {
+        "date": "2025-10-02",
+        "count": 27
+      },
+      {
+        "date": "2025-10-03",
+        "count": 9
+      },
+      {
+        "date": "2025-10-04",
+        "count": 61
+      },
+      {
+        "date": "2025-10-05",
+        "count": 46
+      },
+      {
+        "date": "2025-10-06",
+        "count": 97
+      },
+      {
+        "date": "2025-10-07",
+        "count": 182
+      },
+      {
+        "date": "2025-10-08",
+        "count": 93
+      },
+      {
+        "date": "2025-10-09",
+        "count": 155
+      },
+      {
+        "date": "2025-10-10",
+        "count": 48
+      },
+      {
+        "date": "2025-10-11",
+        "count": 91
+      },
+      {
+        "date": "2025-10-12",
+        "count": 8
+      },
+      {
+        "date": "2025-10-13",
+        "count": 143
+      },
+      {
+        "date": "2025-10-14",
+        "count": 85
+      },
+      {
+        "date": "2025-10-15",
+        "count": 30
+      },
+      {
+        "date": "2025-10-16",
+        "count": 37
+      },
+      {
+        "date": "2025-10-17",
+        "count": 29
+      },
+      {
+        "date": "2025-10-18",
+        "count": 2
+      },
+      {
+        "date": "2025-10-19",
+        "count": 55
+      },
+      {
+        "date": "2025-10-20",
+        "count": 43
+      },
+      {
+        "date": "2025-10-21",
+        "count": 37
+      },
+      {
+        "date": "2025-10-22",
+        "count": 27
+      },
+      {
+        "date": "2025-10-23",
+        "count": 39
+      },
+      {
+        "date": "2025-10-24",
+        "count": 83
+      },
+      {
+        "date": "2025-10-25",
+        "count": 68
+      },
+      {
+        "date": "2025-10-26",
+        "count": 19
+      },
+      {
+        "date": "2025-10-27",
+        "count": 34
+      },
+      {
+        "date": "2025-10-28",
+        "count": 17
+      },
+      {
+        "date": "2025-10-29",
+        "count": 42
+      },
+      {
+        "date": "2025-10-30",
+        "count": 23
+      },
+      {
+        "date": "2025-10-31",
+        "count": 27
+      },
+      {
+        "date": "2025-11-01",
+        "count": 7
+      },
+      {
+        "date": "2025-11-02",
+        "count": 37
+      },
+      {
+        "date": "2025-11-03",
+        "count": 53
+      },
+      {
+        "date": "2025-11-04",
+        "count": 24
+      },
+      {
+        "date": "2025-11-05",
+        "count": 26
+      },
+      {
+        "date": "2025-11-06",
+        "count": 22
+      },
+      {
+        "date": "2025-11-07",
+        "count": 7
+      },
+      {
+        "date": "2025-11-08",
+        "count": 12
+      },
+      {
+        "date": "2025-11-09",
+        "count": 6
+      },
+      {
+        "date": "2025-11-10",
+        "count": 30
+      },
+      {
+        "date": "2025-11-11",
+        "count": 26
+      },
+      {
+        "date": "2025-11-12",
+        "count": 23
+      },
+      {
+        "date": "2025-11-13",
+        "count": 10
+      },
+      {
+        "date": "2025-11-14",
+        "count": 25
+      },
+      {
+        "date": "2025-11-15",
+        "count": 5
+      },
+      {
+        "date": "2025-11-16",
+        "count": 6
+      },
+      {
+        "date": "2025-11-17",
+        "count": 28
+      },
+      {
+        "date": "2025-11-18",
+        "count": 44
+      },
+      {
+        "date": "2025-11-19",
+        "count": 41
+      },
+      {
+        "date": "2025-11-20",
+        "count": 22
+      },
+      {
+        "date": "2025-11-21",
+        "count": 24
+      },
+      {
+        "date": "2025-11-22",
+        "count": 59
+      },
+      {
+        "date": "2025-11-23",
+        "count": 5
+      },
+      {
+        "date": "2025-11-24",
+        "count": 46
+      },
+      {
+        "date": "2025-11-25",
+        "count": 8
+      },
+      {
+        "date": "2025-11-26",
+        "count": 43
+      },
+      {
+        "date": "2025-11-27",
+        "count": 74
+      },
+      {
+        "date": "2025-11-28",
+        "count": 39
+      },
+      {
+        "date": "2025-11-29",
+        "count": 6
+      },
+      {
+        "date": "2025-11-30",
+        "count": 36
+      },
+      {
+        "date": "2025-12-01",
+        "count": 65
+      },
+      {
+        "date": "2025-12-02",
+        "count": 52
+      },
+      {
+        "date": "2025-12-03",
+        "count": 31
+      },
+      {
+        "date": "2025-12-04",
+        "count": 33
+      },
+      {
+        "date": "2025-12-05",
+        "count": 26
+      },
+      {
+        "date": "2025-12-06",
+        "count": 39
+      },
+      {
+        "date": "2025-12-07",
+        "count": 32
+      },
+      {
+        "date": "2025-12-08",
+        "count": 12
+      },
+      {
+        "date": "2025-12-09",
+        "count": 261
+      },
+      {
+        "date": "2025-12-10",
+        "count": 40
+      },
+      {
+        "date": "2025-12-11",
+        "count": 12
+      },
+      {
+        "date": "2025-12-12",
+        "count": 6
+      },
+      {
+        "date": "2025-12-13",
+        "count": 16
+      },
+      {
+        "date": "2025-12-14",
+        "count": 13
+      },
+      {
+        "date": "2025-12-15",
+        "count": 83
+      },
+      {
+        "date": "2025-12-16",
+        "count": 95
+      },
+      {
+        "date": "2025-12-17",
+        "count": 29
+      },
+      {
+        "date": "2025-12-18",
+        "count": 47
+      },
+      {
+        "date": "2025-12-19",
+        "count": 82
+      },
+      {
+        "date": "2025-12-20",
+        "count": 41
+      },
+      {
+        "date": "2025-12-21",
+        "count": 52
+      },
+      {
+        "date": "2025-12-22",
+        "count": 40
+      },
+      {
+        "date": "2025-12-23",
+        "count": 70
+      },
+      {
+        "date": "2025-12-24",
+        "count": 15
+      },
+      {
+        "date": "2025-12-25",
+        "count": 9
+      },
+      {
+        "date": "2025-12-26",
+        "count": 8
+      },
+      {
+        "date": "2025-12-27",
+        "count": 8
+      },
+      {
+        "date": "2025-12-28",
+        "count": 6
+      },
+      {
+        "date": "2025-12-29",
+        "count": 12
+      },
+      {
+        "date": "2025-12-30",
+        "count": 25
+      },
+      {
+        "date": "2025-12-31",
+        "count": 5
+      }
+    ],
+    "longest_streak": 260,
     "most_productive_day": {
-      "date": "2025-01-01",
-      "count": 0
+      "date": "2025-12-09",
+      "count": 261
     },
     "most_productive_iso_week": {
-      "iso_week": "2025-W01",
-      "count": 0
+      "iso_week": "2025-W41",
+      "count": 674
     }
   },
-  "top_repos": [],
+  "top_repos": [
+    {
+      "repo": "Twister5-com-tw-Dev-dep/bde_ai_web",
+      "commit_count": 1341,
+      "pr_count": 8,
+      "issue_count": 11,
+      "review_count": 5,
+      "is_private": true,
+      "total_activity": 1365
+    },
+    {
+      "repo": "cyber-security-dev-dep-mitake-com-tw/Local_IPS-IDS",
+      "commit_count": 350,
+      "pr_count": 0,
+      "issue_count": 0,
+      "review_count": 37,
+      "is_private": true,
+      "total_activity": 387
+    },
+    {
+      "repo": "dennislee928/Carbon_Trading_For_Individuals",
+      "commit_count": 255,
+      "pr_count": 109,
+      "issue_count": 1,
+      "review_count": 0,
+      "is_private": false,
+      "total_activity": 365
+    },
+    {
+      "repo": "cyber-security-dev-dep-mitake-com-tw/pandora_box_pc_agent",
+      "commit_count": 296,
+      "pr_count": 16,
+      "issue_count": 3,
+      "review_count": 17,
+      "is_private": true,
+      "total_activity": 332
+    },
+    {
+      "repo": "dennislee928/carboon-trade-backend",
+      "commit_count": 307,
+      "pr_count": 6,
+      "issue_count": 0,
+      "review_count": 0,
+      "is_private": true,
+      "total_activity": 313
+    },
+    {
+      "repo": "Jest-Test-Team/Ielts",
+      "commit_count": 257,
+      "pr_count": 45,
+      "issue_count": 0,
+      "review_count": 0,
+      "is_private": false,
+      "total_activity": 302
+    },
+    {
+      "repo": "dennislee928/dennislee928",
+      "commit_count": 192,
+      "pr_count": 96,
+      "issue_count": 0,
+      "review_count": 0,
+      "is_private": false,
+      "total_activity": 288
+    },
+    {
+      "repo": "dennislee928/Ethic-Latex",
+      "commit_count": 231,
+      "pr_count": 43,
+      "issue_count": 0,
+      "review_count": 0,
+      "is_private": false,
+      "total_activity": 274
+    },
+    {
+      "repo": "estateangela/mindhelp",
+      "commit_count": 239,
+      "pr_count": 19,
+      "issue_count": 1,
+      "review_count": 10,
+      "is_private": false,
+      "total_activity": 269
+    },
+    {
+      "repo": "dennislee928/Sunny_Box_Protector",
+      "commit_count": 265,
+      "pr_count": 0,
+      "issue_count": 0,
+      "review_count": 0,
+      "is_private": true,
+      "total_activity": 265
+    },
+    {
+      "repo": "cyber-security-dev-dep-mitake-com-tw/Cloud_Console_IDS-IPS",
+      "commit_count": 190,
+      "pr_count": 16,
+      "issue_count": 1,
+      "review_count": 11,
+      "is_private": true,
+      "total_activity": 218
+    },
+    {
+      "repo": "dennislee928/stock_payment_simulation_platform",
+      "commit_count": 133,
+      "pr_count": 53,
+      "issue_count": 0,
+      "review_count": 0,
+      "is_private": false,
+      "total_activity": 186
+    }
+  ],
   "pr_stats": {
-    "opened": 0,
-    "merged": 0,
-    "merge_rate": 0,
-    "avg_time_to_merge_hours": 0,
-    "biggest_pr": null,
+    "opened": 1000,
+    "merged": 752,
+    "merge_rate": 0.752,
+    "avg_time_to_merge_hours": 33.897386598699775,
+    "biggest_pr": {
+      "repo": "dennislee928/Ethic-Latex",
+      "number": 41,
+      "title": "Feature/refactor - fix fe setting and hooks",
+      "url": "https://github.com/dennislee928/Ethic-Latex/pull/41",
+      "created_at": "2025-12-19T09:05:23Z",
+      "merged": true,
+      "merged_at": "2025-12-19T09:05:30Z",
+      "additions": 450256,
+      "deletions": 3
+    },
     "time_of_day_histogram": {
-      "00": 0,
-      "01": 0,
-      "02": 0,
-      "03": 0,
-      "04": 0,
-      "05": 0,
-      "06": 0,
-      "07": 0,
-      "08": 0,
-      "09": 0,
-      "10": 0,
-      "11": 0,
-      "12": 0,
-      "13": 0,
-      "14": 0,
-      "15": 0,
-      "16": 0,
-      "17": 0,
-      "18": 0,
-      "19": 0,
-      "20": 0,
-      "21": 0,
-      "22": 0,
-      "23": 0
+      "00": 5,
+      "01": 30,
+      "02": 32,
+      "03": 47,
+      "04": 45,
+      "05": 97,
+      "06": 147,
+      "07": 180,
+      "08": 165,
+      "09": 137,
+      "10": 35,
+      "11": 14,
+      "12": 13,
+      "13": 7,
+      "14": 5,
+      "15": 2,
+      "16": 4,
+      "17": 6,
+      "18": 4,
+      "19": 6,
+      "20": 3,
+      "21": 1,
+      "22": 14,
+      "23": 1
     }
   },
   "issue_stats": {
-    "opened": 0,
-    "closed": 0,
+    "opened": 78,
+    "closed": 15,
     "time_of_day_histogram": {
-      "00": 0,
-      "01": 0,
-      "02": 0,
-      "03": 0,
-      "04": 0,
-      "05": 0,
-      "06": 0,
-      "07": 0,
-      "08": 0,
-      "09": 0,
+      "00": 5,
+      "01": 23,
+      "02": 15,
+      "03": 9,
+      "04": 5,
+      "05": 6,
+      "06": 1,
+      "07": 3,
+      "08": 6,
+      "09": 3,
       "10": 0,
-      "11": 0,
+      "11": 1,
       "12": 0,
       "13": 0,
       "14": 0,
-      "15": 0,
+      "15": 1,
       "16": 0,
       "17": 0,
       "18": 0,
@@ -88,13 +1668,1253 @@
     }
   },
   "reviews": {
-    "total": 0,
-    "by_repo": []
+    "total": 102,
+    "by_repo": [
+      {
+        "repo": "cyber-security-dev-dep-mitake-com-tw/Local_IPS-IDS",
+        "count": 37,
+        "is_private": true
+      },
+      {
+        "repo": "cyber-security-dev-dep-mitake-com-tw/pandora_box_pc_agent",
+        "count": 17,
+        "is_private": true
+      },
+      {
+        "repo": "cyber-security-dev-dep-mitake-com-tw/Cloud_Console_IDS-IPS",
+        "count": 11,
+        "is_private": true
+      },
+      {
+        "repo": "estateangela/mindhelp",
+        "count": 10,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Hexstrike-AI",
+        "count": 9,
+        "is_private": false
+      },
+      {
+        "repo": "Twister5-com-tw-Dev-dep/bde_ai_web",
+        "count": 5,
+        "is_private": true
+      },
+      {
+        "repo": "dennislee928/Personal-OS-Focus-Flow",
+        "count": 5,
+        "is_private": false
+      },
+      {
+        "repo": "National-Cheng-Chi-University-DCT-Dep/Exchange-Plan",
+        "count": 4,
+        "is_private": false
+      }
+    ]
   },
   "languages": {
-    "weighted_bytes": {},
-    "top": [],
-    "note": "Run the Go collector to populate."
+    "weighted_bytes": {
+      "ANTLR": 10016,
+      "APL": 2300,
+      "Batchfile": 115034,
+      "C": 2526595,
+      "C++": 1428913,
+      "CMake": 19815,
+      "CSS": 22563543,
+      "Common Lisp": 13841,
+      "Cython": 5267686,
+      "Dart": 383473,
+      "Dockerfile": 165702,
+      "Fortran": 75496,
+      "Go": 11271297,
+      "HCL": 524993,
+      "HLSL": 2585,
+      "HTML": 17229201,
+      "Handlebars": 14456,
+      "Inno Setup": 9808,
+      "JavaScript": 15837006,
+      "Jinja": 143308,
+      "Jupyter Notebook": 2183241,
+      "Kotlin": 256,
+      "Lua": 278,
+      "MDX": 140778,
+      "Makefile": 158704,
+      "Mako": 636,
+      "Meson": 41582,
+      "Objective-C": 38,
+      "OpenQASM": 34651,
+      "PHP": 132,
+      "PLpgSQL": 298092,
+      "Perl": 7590,
+      "PowerShell": 1082799,
+      "Procfile": 223,
+      "Python": 223933056,
+      "R": 1736,
+      "RobotFramework": 408434,
+      "Roff": 25302,
+      "Ruby": 4099,
+      "SCSS": 329982,
+      "Shell": 1797089,
+      "Smarty": 8486,
+      "Solidity": 14977,
+      "Swift": 4205,
+      "TSQL": 1633,
+      "TeX": 2673236,
+      "TypeScript": 19112873,
+      "Vue": 2547282,
+      "XSLT": 374691,
+      "YARA": 263
+    },
+    "top": [
+      {
+        "language": "Python",
+        "bytes": 223933056,
+        "share": 0.6728931334321813
+      },
+      {
+        "language": "CSS",
+        "bytes": 22563543,
+        "share": 0.06780085719279319
+      },
+      {
+        "language": "TypeScript",
+        "bytes": 19112873,
+        "share": 0.0574319898615653
+      },
+      {
+        "language": "HTML",
+        "bytes": 17229201,
+        "share": 0.05177177168261782
+      },
+      {
+        "language": "JavaScript",
+        "bytes": 15837006,
+        "share": 0.04758838548393791
+      },
+      {
+        "language": "Go",
+        "bytes": 11271297,
+        "share": 0.03386895392601057
+      },
+      {
+        "language": "Cython",
+        "bytes": 5267686,
+        "share": 0.015828791880002
+      },
+      {
+        "language": "TeX",
+        "bytes": 2673236,
+        "share": 0.008032767384033336
+      },
+      {
+        "language": "Vue",
+        "bytes": 2547282,
+        "share": 0.007654290069240128
+      },
+      {
+        "language": "C",
+        "bytes": 2526595,
+        "share": 0.007592128008399448
+      }
+    ],
+    "note": "Language bytes are aggregated from the current repo language breakdown (not time-series). Weighted by bytes across repos you contributed to in 2025."
   },
-  "growth": null
+  "growth": {
+    "year": 2025,
+    "repos": [
+      {
+        "repo": "dennislee928/thesis",
+        "stars_gained_in_year": 8,
+        "forks_gained_in_year": 0,
+        "stars_now": 9,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/QASM",
+        "stars_gained_in_year": 7,
+        "forks_gained_in_year": 0,
+        "stars_now": 8,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/APL_Demo",
+        "stars_gained_in_year": 7,
+        "forks_gained_in_year": 0,
+        "stars_now": 7,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Qikit-practice",
+        "stars_gained_in_year": 6,
+        "forks_gained_in_year": 0,
+        "stars_now": 7,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Carbon_Trading_For_Individuals",
+        "stars_gained_in_year": 5,
+        "forks_gained_in_year": 0,
+        "stars_now": 6,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/ETH_GATEWAY_DEMO",
+        "stars_gained_in_year": 5,
+        "forks_gained_in_year": 0,
+        "stars_now": 5,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/CySECurity_Example",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 0,
+        "stars_now": 5,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/npm_packages",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 0,
+        "stars_now": 5,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Hexstrike-AI",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 1,
+        "stars_now": 4,
+        "forks_now": 1,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/1st_mac_app",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/The-Ultimate-Travel-Assistant",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/The-Smart-Dating-Optimizer",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/firmware-research-demo",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/bde_ai_web",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/dennislee928",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/104_open_api",
+        "stars_gained_in_year": 4,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/interview",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Max_api_project",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Machine-Learning-Specialization",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/pokemon",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/bloody_mickey",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/front-end-test-2024",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/BTC_Rise_Calling",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/2024_portfolio",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/BingX_Vue_project",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/BTC_Rise_Calling_admin",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/CoinGecko_api_vue",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/-V1",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/next_js_portfolio",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/taiwan_public_art_information",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 4,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/popoman1217",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/CF_App",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Data-Science-Peer-Assignment",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/zen_browser_kitty_theme",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/enhanced_flip-_card_game",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/essentia_sound_related",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/defi-realtime-portfolio-tracker",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/weirdo-in-taiwan",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/tinder-bot",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/ticker-getter",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/creative-portfolio",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/excalidraw-UI-Icons",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/this_bottle_of-_wine_is_kinda_warm",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/CF_Workers",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/skills-publish-packages",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/The-Hive-A-safety-web-for-public-infrastructure",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/ansible",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/skills-hello-github-actions",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/BingX_Nuxt_Project",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Before-Aferica",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/a_little_place_cafe",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/skills-write-javascript-actions",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/BingX_Nuxt_3",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/CourseManagementAPP",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/skills-test-with-actions",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Chrome_Extension_V1",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Front-end-workout-analyzer-",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/fusion_neutronics_workflow",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/ai-codereviewer",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/github-mcp-server",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/resources",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/github_ci_action_program",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/BingX_Nuxt_2",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/agify",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/cloudflare-api-schemas",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Jason_Adult_Only",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/recent_project_unable_directly_show_codes",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/post-quantum-cryptograhpy-tutorials",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/cloudflare-telegram-bot",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Oogie_Boogie_Simulator",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/lobe-chat",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/os_test",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/2025_Schedule",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Nuclear_Energy_EIA",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/104_-_work_flow",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/npm_frontend_demo",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Cloudflare_Terraform_WAF_Rules_Automation_Deployment_Project",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/halloween_badge_only",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Norms_Spotify",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/meme-generrator",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/coffee-shop-website",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/modern-rt-audio-course",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/next_gallery",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/CoinCap_api_vue",
+        "stars_gained_in_year": 3,
+        "forks_gained_in_year": 0,
+        "stars_now": 3,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Self_Host_Grid_Robot",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/neural-dsp-amp-modeler",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/WHY_MR_ANDERSON_WHY",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Dooms_Clock_Project",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/UAD_LANG",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/career-analyzer",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/autodesk_backend",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/tinder.github.io",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Machine_Learning_based_Job_Matching_Auto_Apply",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/TWSE-On-Chain",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/-next-mdx-DEMO",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/policy-as-code",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/owlpay_harbor_mcp_server",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/tool-box",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/TinderAutomation",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/LRCreator",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/free-for-dev",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/sentiment_analysis_service",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/CF-MCP-SERVER-DEMO",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/straw_to_eat",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/LAST_HOPE",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/remote-in-japan",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/stock_payment_simulation_platform",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/AI-Chatbot",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/bitcoin_model",
+        "stars_gained_in_year": 2,
+        "forks_gained_in_year": 0,
+        "stars_now": 2,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/pawansahaniofficial",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Leak_Check",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/aifeedback-sdk",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Mighty_Eagle",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Useful-tool-gadget",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Google-Accounts-Mayluimu",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Airdrop-intel",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/awesome",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Ethic-Latex",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Anti-Fraud-R-D-and-Public-Service-Platform",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/actinspace.org",
+        "stars_gained_in_year": 1,
+        "forks_gained_in_year": 0,
+        "stars_now": 1,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/hf-code-llm-space",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/markdown-badges",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Feeder-of-the-Future-Prize",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/dennis-s-note-vault",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/CREST-CPSA-CRT-Preparation",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Personal-OS-Focus-Flow",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/dexter",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/nessus-render",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Symbiosis_of_Netro_and_Meruem",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/OpenSSL_Installation",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/tw-greenweb",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Self_Adult_Content",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Github_Annual_Recap",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Smart_Zone",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/Mutual-MCP-Penetrating-Platform",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 1,
+        "stars_now": 0,
+        "forks_now": 1,
+        "is_private": false
+      },
+      {
+        "repo": "dennislee928/digital_twin_omniverse",
+        "stars_gained_in_year": 0,
+        "forks_gained_in_year": 0,
+        "stars_now": 0,
+        "forks_now": 0,
+        "is_private": false
+      }
+    ],
+    "total_stars_gained": 343,
+    "total_forks_gained": 2,
+    "total_stars_now": 363,
+    "total_forks_now": 2,
+    "note": "Stars gained derived from stargazer timestamps when available; forks gained derived from fork creation timestamps. Private repo stars/forks are usually not meaningful. Use --skip-growth to disable."
+  }
 }
