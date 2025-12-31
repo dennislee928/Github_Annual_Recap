@@ -39,6 +39,7 @@ A runnable repo skeleton that generates a **2025 GitHub Recap** (HTML report + s
 
 ### 1) Create a token
 Create a GitHub PAT (Classic):
+- Head to https://github.com/settings/tokens
 - Scopes: `repo`, `read:user`
 
 ### 2) Export env vars
@@ -50,10 +51,11 @@ set -a; source .env; set +a
 
 ### 3) Generate recap JSON
 ```bash
-go run ./cmd/recap \
-  --user dennislee928 \
-  --year 2025 \
-  --out ./web/recap_2025.json
+go run ./cmd/recap --out dist --year 2025 --user Your_Github_UserName
+```
+### if web\recap_2025.json is empty:
+```bash
+Copy-Item -Path "dist" -Destination "web/recap_2025.json" -Force
 ```
 
 ### 4) Render HTML + PNG cards
@@ -62,12 +64,17 @@ cd web
 npm install
 # Install browser for Playwright
 npx playwright install chromium
+# for generals type
 npm run render
+# for instagram stories
+npm run render:story
+# for both types
+npm run render:all
 ```
 
 Outputs:
 - `web/out/report.html` (shareable report)
-- `web/out/cards/card-01.png` ... (shareable cards)
+- `web/out/cards/card-01.png` ...`web/out/cards/card-07.png` (shareable cards)
 
 ## Useful flags
 - `--skip-growth` : skip stars/forks gained calculation (faster, fewer API calls)
